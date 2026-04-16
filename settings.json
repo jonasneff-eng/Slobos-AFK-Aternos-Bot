@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "simplysmpbg.aternos.me:632923",
+    "ip": "simplysmpbg.aternos.me",
     "port": 63923,
     "version": "1.21.11",
     "try-creative": false
